@@ -85,4 +85,4 @@ You can use GitHub API too for fetching new issues.
 * Deploy all the HTML pages using GitHub pages and Jekyll.
 * Provide a one-line description and the link to the webpage in the readme of your GitHub repository.
 
-## [Resources] (shorturl.at/vAQZ6)
+## [Resources](shorturl.at/vAQZ6)
