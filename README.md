@@ -2,12 +2,12 @@
 
 Get accustomed with the basics of HTML and CSS, then dive into the Universe of JavaScript.
 Before you start, few points: 
-*If you are new to frontend you should start with projects in Category A. 
-*If you have some experience with HTML/CSS, start with category B. 
-*If you’re an expert in HTML/CSS and have a good knowledge of JS you can start with Category C. 
-*If you’re a God, start with Category D.  
-*In most projects a layout of the design is specified. In those cases you have to come up with your own design to make it look attractive.
-*All design SHOULD be responsive.
+* If you are new to frontend you should start with projects in Category A. 
+* If you have some experience with HTML/CSS, start with category B. 
+* If you’re an expert in HTML/CSS and have a good knowledge of JS you can start with Category C. 
+* If you’re a God, start with Category D.  
+* In most projects a layout of the design is specified. In those cases you have to come up with your own design to make it look attractive.
+* All design SHOULD be responsive.
 
 ## Category A:
 
@@ -79,11 +79,11 @@ You can also add a feature to search for an issue.
 You can use GitHub API too for fetching new issues.
 
 ## Instructions to upload:
-*Create a GitHub repository by the name ‘frontend-101’.
-*Upload your code to github in a hierarchical form. All the tasks in A should be uploaded in the subfolder ‘A’ and others accordingly.
-*Naming convention: Name your final HTML files as: ‘A-1.html’ or ‘C-2.html’.
-*Deploy all the HTML pages using GitHub pages and Jekyll.
-*Provide a one-line description and the link to the webpage in the readme of your GitHub repository.
+* Create a GitHub repository by the name ‘frontend-101’.
+* Upload your code to github in a hierarchical form. All the tasks in A should be uploaded in the subfolder ‘A’ and others accordingly.
+* Naming convention: Name your final HTML files as: ‘A-1.html’ or ‘C-2.html’.
+* Deploy all the HTML pages using GitHub pages and Jekyll.
+* Provide a one-line description and the link to the webpage in the readme of your GitHub repository.
 
 ## Resources
 shorturl.at/vAQZ6
